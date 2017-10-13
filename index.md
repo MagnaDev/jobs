@@ -1,20 +1,25 @@
 ---
 layout: home
 ---
-We are looking to increase our team with the introduction of a technical
-trainee / trainee programmer at our Distribution Centre based in Milton Keynes.
+# Who are we?
+We are a small, agile team, responsible for the specification,
+development, installation, commissioning and testing of a multi-million pound
+automated warehouse.
 
-John Lewis Magna Park is one of the largest distribution centres in Europe and
-the cornerstone of how John Lewis gets both products into stores and directly
-to customers.
+# Where are we?
+We are based at John Lewis Magna Park on the outskirts of Milton Keynes.
 
-If you have an interest in IT, would like to work in the fast paced and
-constantly changing world of modern retail distribution and would like to
-play a part in making it better, then this may be the opportunity for you.
+John Lewis Magna Park is one of the largest distribution centres in Europe
+and is the cornerstone of how John Lewis gets products both to stores and
+directly to customers.
 
-You will be part of a small and agile team who are responsible for the
-specification, development, installation, commissioning, testing and
-operational development of a mutli-million pound automated warehouse.
+# What are we looking for?
+We are looking to grow our team with the introduction of a technical
+trainee.
 
-Interested in working in Magna Labs? Ping over your CV and a couple of
-sentences on why you would like a shot to <jobs@magnapark-jlp.io>.
+If you have an interest in IT and would like to contribute to the fast paced
+and constantly changing world of modern retail distribution then this may be
+the opportunity for you.
+
+Ping over your CV and a couple of sentences on why you'd like a shot to
+<jobs@magnapark-jlp.io>. We look forward to hearing from you!

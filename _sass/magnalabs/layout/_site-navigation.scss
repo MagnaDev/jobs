@@ -1,0 +1,19 @@
+.site-navigation {
+  border-bottom: 1px solid darken($alabaster, 10%);
+  border-top: 3px solid $mirage;
+  height: 100%;
+
+  ul {
+    align-content: center;
+    align-items: center;
+    display: flex;
+    height: 100%;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+  }
+
+  li {
+    padding: 10px;
+  }
+}

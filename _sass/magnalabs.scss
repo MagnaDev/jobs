@@ -1,14 +1,28 @@
 @charset 'utf-8';
 
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700');
 
 $serif:             'Roboto Slab', serif;
+$sans:              'Roboto Condensed', serif;
 
 $mirage:            rgb(31, 39, 57);
 $carnation:         rgb(249, 90, 97);
 $malibu:            rgb(77, 195, 250);
 $alabaster:         rgb(247, 247, 247);
+$pure-white:        rgb(255, 255, 255);
 
-@import 'magnalabs/base';
-@import 'magnalabs/layout';
-@import 'magnalabs/component';
+$primary:           $mirage;
+$secondary:         $carnation;
+$tertiary:          $malibu;
+$grey:              $alabaster;
+$white:             $pure-white;
+
+$header-height:     100px;
+$footer-height:     40px;
+
+@import
+  'magnalabs/base',
+  'magnalabs/layout',
+  'magnalabs/component'
+;

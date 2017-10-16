@@ -1,25 +1,25 @@
 .logo {
-  color: $carnation;
+  color: $secondary;
   font-family: $serif;
   font-weight: bold;
+  margin: 0;
   text-transform: lowercase;
 
   &::before {
-    color: $malibu;
+    color: $tertiary;
     content: '{ ';
   }
 
   &::after {
-    color: $malibu;
+    color: $tertiary;
     content: ' }';
   }
 
-  a {
-    color: $carnation;
-    text-decoration: none;
+  &__link {
+    color: $secondary;
 
     &:link, &:visited, &:hover, &:active {
-      color: $carnation;
+      color: $secondary;
     }
   }
 }

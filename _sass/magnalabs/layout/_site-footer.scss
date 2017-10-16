@@ -1,5 +1,14 @@
 .site-footer {
-  background: $mirage;
-  color: $alabaster;
+  background: $primary;
+  color: $tertiary;
+  font-family: $serif;
   grid-area: site-footer;
+
+  &__content {
+    line-height: $footer-height;
+    font-size: 12px;
+    margin: 0;
+    text-align: center;
+    text-transform: lowercase;
+  }
 }

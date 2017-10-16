@@ -4,7 +4,7 @@
     "site-header site-header site-header"
     ". site-content ."
     "site-footer site-footer site-footer";
-  grid-template-columns: 1fr 10fr 1fr;
-  grid-template-rows: 100px 1fr 100px;
+  grid-template-columns: 2fr 8fr 2fr;
+  grid-template-rows: $header-height 1fr $footer-height;
   min-height: 100vh;
 }

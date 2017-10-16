@@ -1,10 +1,8 @@
-.site-navigation {
-  border-bottom: 1px solid darken($alabaster, 10%);
-  border-top: 3px solid $mirage;
+.site-menu {
+  font-family: $serif;
   height: 100%;
 
-  ul {
-    align-content: center;
+  &__items {
     align-items: center;
     display: flex;
     height: 100%;
@@ -13,7 +11,8 @@
     list-style: none;
   }
 
-  li {
+  &__item {
     padding: 10px;
+    text-transform: lowercase;
   }
 }

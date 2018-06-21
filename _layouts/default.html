@@ -11,6 +11,16 @@
       {% include header.html %}
 
       <main class="site-content">
+        <div class="tabs is-fullwidth">
+          <ul>
+            {% for post in site.posts %}
+              <li {% if page.url == post.url %}class="is-active"{% endif %}>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+
         {{ content }}
       </main>
 

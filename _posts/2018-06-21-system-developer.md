@@ -4,7 +4,7 @@ title: "System Developer"
 date: 2018-06-21
 job_url: https://www.jlpjobs.com/search-jobs/systems-developer/
 ---
-### Duties &amp; Responsibilities
+## Duties &amp; Responsibilities
 
 The John Lewis Partnership is seeking a Systems Developer to join its cutting 
 edge semi-automated distribution centre here at Magna Park, Milton Keynes on 
@@ -15,7 +15,7 @@ the further development and maintenance of our in-house tools which help drive
 the success of our semi-automated distribution centre. John Lewis Magna Park is
 the cornerstone of how John Lewis gets products both to stores and customers.
 
-### Job Requirements
+## Job Requirements
 
 We are looking for a Systems Developer with strong analytical and problem 
 solving skills. Team work is vital but you should also be able to work 
@@ -26,7 +26,7 @@ of responsibility and plenty of space to be creative. Lastly, we expect that you
 will have a passion and enthusiasm for keeping up to date with the latest 
 technological trends whilst being open to learning new technologies.
 
-### Required essential experience skills and qualifications
+## Required essential experience skills and qualifications
 
 To be considered for this role, you must have the following experience/skills:
 
@@ -37,7 +37,7 @@ To be considered for this role, you must have the following experience/skills:
 * You love Git or at least version control and are familiar with a web-based
     hosting provider (BitBucket, GitHub etc.)
 
-### Required desirable experience skills and qualifications
+## Required desirable experience skills and qualifications
 
 Although not essential, the following skills/experiences will be advantageous:
 

@@ -4,7 +4,7 @@ title: Test Analyst
 date: 2018-06-21
 job_url: https://www.jlpjobs.com/search-jobs/test-analyst/
 ---
-### Duties &amp; Responsibilities
+## Duties &amp; Responsibilities
 
 The John Lewis Partnership is seeking a Test Analyst to join its cutting edge 
 semi-automated distribution centre here at Magna Park, Milton Keynes on a 6 
@@ -19,7 +19,7 @@ the development team at here at Magna Park. This role will be best suited for
 an innovative Test Analyst who loves a challenge, who has a passion for finding 
 and fixing bugs in programming & coding.
 
-### Job Requirements
+## Job Requirements
 
 As a Test Analyst you will be responsible for defining, developing, applying, 
 and assessing tests to analyse new developments, usually in a software context. 
@@ -29,7 +29,7 @@ part of a team as the balance of solo and teamwork is quite variable. Lastly,
 The Test Analyst will be integral to the successful implementation of changes 
 into live systems.
 
-### Required essential experience skills and qualifications
+## Required essential experience skills and qualifications
 
 To be considered for this role, you must have the following experience/skills: 
 
@@ -39,7 +39,7 @@ To be considered for this role, you must have the following experience/skills:
 * Excellent communications (written and verbal)
 * Ability to identify ways to improve the end-to-end testing
 
-### Required desirable experience skills and qualifications
+## Required desirable experience skills and qualifications
 
 Although not essential, the following skills/experience will be advantageous:
 

@@ -1,25 +1,35 @@
 ---
 layout: default
 ---
+<nav class="tabs is-fullwidth">
+  <ul>
+    {% for post in site.posts %}
+      <li {% if page.url == post.url %}class="is-active"{% endif %}>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
+
 <nav class="level">
-  <div class="level-left">
-    <div class="level-item">
-      <h1 class="title">{{ page.title }}</h2>
-    </div>
-  </div>
+  <ul class="level-left">
+    <li class="level-item">
+      <h1 class="title">{{ page.title }}</h1>
+    </li>
+  </ul>
 
   {% if page.job_url %}
-    <div class="level-right">
-      <div class="level-item">
+    <ul class="level-right">
+      <li class="level-item">
         <a class="button is-success" href="{{ page.job_url }}" target="_blank">
           <strong>Apply via JLP Jobs</strong>
         </a>
-      </div>
-    </div>
+      </li>
+    </ul>
   {% endif %}
-</nav> 
-    
-<article class="content">
+</nav>
+
+<article class="content is-small">
   {{content}}
 </article>
 

@@ -18,15 +18,19 @@ layout: default
     </li>
   </ul>
 
-  {% if page.job_url %}
-    <ul class="level-right">
-      <li class="level-item">
+  <ul class="level-right">
+    <li class="level-item">
+      {% if page.job_url %}
         <a class="button is-success" href="{{ page.job_url }}" target="_blank">
           <strong>Apply via JLP Jobs</strong>
         </a>
-      </li>
-    </ul>
-  {% endif %}
+      {% else %}
+        <p class="button is-success" disabled>
+          <strong>Applications Closed</strong> 
+        </p>
+      {% endif %}
+    </li>
+  </ul>
 </nav>
 
 <article class="content is-small">

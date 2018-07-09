@@ -2,7 +2,6 @@
 layout: post
 title: Test Analyst
 date: 2018-06-21
-job_url: https://www.jlpjobs.com/search-jobs/test-analyst/
 ---
 ## Duties &amp; Responsibilities
 

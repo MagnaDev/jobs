@@ -2,7 +2,6 @@
 layout: post
 title: "System Developer"
 date: 2018-06-21
-job_url: "https://www.jlpjobs.com/search-jobs/systems-developer/"
 ---
 ## Duties &amp; Responsibilities
 

@@ -28,7 +28,7 @@ part of a team as the balance of solo and teamwork is quite variable. Lastly,
 The Test Analyst will be integral to the successful implementation of changes 
 into live systems.
 
-## Required essential experience skills and qualifications
+## Essential experience skills and qualifications
 
 To be considered for this role, you must have the following experience/skills: 
 
@@ -38,7 +38,7 @@ To be considered for this role, you must have the following experience/skills:
 * Excellent communications (written and verbal)
 * Ability to identify ways to improve the end-to-end testing
 
-## Required desirable experience skills and qualifications
+## Desirable experience skills and qualifications
 
 Although not essential, the following skills/experience will be advantageous:
 

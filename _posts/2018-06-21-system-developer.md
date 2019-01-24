@@ -25,7 +25,7 @@ of responsibility and plenty of space to be creative. Lastly, we expect that you
 will have a passion and enthusiasm for keeping up to date with the latest 
 technological trends whilst being open to learning new technologies.
 
-## Required essential experience skills and qualifications
+## Essential experience skills and qualifications
 
 To be considered for this role, you must have the following experience/skills:
 
@@ -36,7 +36,7 @@ To be considered for this role, you must have the following experience/skills:
 * You love Git or at least version control and are familiar with a web-based
     hosting provider (BitBucket, GitHub etc.)
 
-## Required desirable experience skills and qualifications
+## Desirable experience skills and qualifications
 
 Although not essential, the following skills/experiences will be advantageous:
 

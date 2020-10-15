@@ -18,7 +18,7 @@ email: jobs@magnapark-jlp.io
 description: >-
   Current job opportunities at Magna Dev.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jobs.magnapark-jlp.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 sass:
     sass_dir: _sass
